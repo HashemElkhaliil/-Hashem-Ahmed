@@ -1,17 +1,17 @@
-# Flutter Social App
+# Hashem Ahmed
 
-A mobile application built using Flutter, focusing on clean architecture and scalable design.
+Software Engineer | Flutter Developer
 
-##  Features
+## Features
 - Authentication
 - Feed & Posts
 - Likes & Comments
 - API Integration
 
-## 🛠 Tech Stack
+## Tech Stack
 - Flutter & Dart
 - Bloc / Cubit
 - REST APIs
 - Firebase
 
-##  Screenshots
+## Screenshots
